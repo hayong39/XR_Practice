@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/EX_MultiPlayer_DisplayUserName/EX_MultiPlayer_DisplayUserName.unity
-    guid: 356d670bc8808d8489c65564d6466fcc
+    path: Assets/W04_HW/1.unity
+    guid: e153dfd0d46f88948bd779c05b14311c
+  - enabled: 1
+    path: Assets/W04_HW/2.unity
+    guid: 7766bc45900ba8346947506ba4cf9c97
   m_configObjects: {}
