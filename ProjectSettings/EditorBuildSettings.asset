@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/W04_HW/1.unity
-    guid: e153dfd0d46f88948bd779c05b14311c
+    path: Assets/HW3_IntroducingEwha/HW3_Ewha.unity
+    guid: 63722d229a11ec748a5724a246797dc9
   - enabled: 1
-    path: Assets/W04_HW/2.unity
-    guid: 7766bc45900ba8346947506ba4cf9c97
+    path: Assets/HW3_IntroducingEwha/chapel.unity
+    guid: c711b4e5db4d35349a60b5a533df77a4
+  - enabled: 1
+    path: Assets/HW3_IntroducingEwha/ECC.unity
+    guid: 98014167dbcaae6448fda807dac3b050
   m_configObjects: {}

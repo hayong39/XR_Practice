@@ -7,7 +7,7 @@ public class Player_Transform_Translate : MonoBehaviour
 
     public Transform ObjectToTranslate;
 
-    float translateSpeed = 3f;
+    float translateSpeed = 6f;
 
     // Update is called once per frame
     void Update()
